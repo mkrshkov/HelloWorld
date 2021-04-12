@@ -1,5 +1,2 @@
-echo "Hello World"
-echo "Hi"
-echo "Test"
-echo "Test2"
-echo "Commit 1"
+echo "Hello Remo"
+
